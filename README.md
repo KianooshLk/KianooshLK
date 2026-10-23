@@ -1,67 +1,42 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/KianooshLk" target="_blank">Kianoosh Lashkari</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-<br />
-
-<a href="https://medium.com/@kianooshlashkari" alt="Kianoosh's blog" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40" />
-</a>
-<a href="mailto:kianooush.lashkari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-</a>
+<h2>Hey 👋, I'm Kianoosh</h2>
+<p>I'm a final-year <strong>Computer Engineering</strong> student passionate about <strong>networking, IT infrastructure and system administration</strong>. I learn by building: simulating networks, breaking them, and fixing them again. I'm looking for an <strong>internship, ideally abroad</strong>, to grow into a System Administrator.</p>
+<p><a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335"><img src="https://img.shields.io/badge/-Kianoosh%20Lashkari-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a> <a href="https://medium.com/@kianooshlashkari"><img src="https://img.shields.io/badge/-@kianooshlashkari-14c767?style=flat-square&labelColor=14c767&logo=Medium&logoColor=white" alt="Medium Badge"></a> <a href="https://twitter.com/Lashkrikia"><img src="https://img.shields.io/badge/-@Lashkrikia-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=x&logoColor=white" alt="X Badge"></a> <a href="mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&labelColor=D14836&logo=gmail&logoColor=white" alt="Gmail Badge"></a></p>
+<p>🌐 Open for internships 🌐</p>
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I'm currently working on an <strong>enterprise / campus network design</strong> in Packet Tracer and GNS3.</li>
+<li>🧐 Learning and practicing <strong>VLAN, OSPF, ACL, NAT, DHCP, DNS</strong> and <strong>Linux / Windows Server</strong> administration.</li>
+<li>👨‍💻 My labs are available on <a href="https://github.com/KianooshLk/CCNA-Labs">GitHub</a>.</li>
+<li>📝 I write articles on <a href="https://medium.com/@kianooshlashkari">Medium</a>.</li>
+<li>💬 Ping me about <strong>networking, system administration, Linux and security</strong>.</li>
+<li>🏅 Certified: <strong>CCNA</strong>, <strong>Network+</strong>, <strong>Security+</strong>.</li>
+</ul>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="debian" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+<img src="https://img.shields.io/badge/vmware-%23607078.svg?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+<img src="https://img.shields.io/badge/wireshark-%231679A7.svg?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=flat-square&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</p>
+<p>Packet Tracer · GNS3 · VLAN · OSPF · ACL · NAT · DHCP · DNS · Windows Server</p>
+<h2>🏅 Certifications</h2>
+<p>
+<img src="https://img.shields.io/badge/ccna-%231BA0D7.svg?style=flat-square&logo=cisco&logoColor=white" alt="CCNA" />
+<img src="https://img.shields.io/badge/network+-%23C8202F.svg?style=flat-square&logo=comptia&logoColor=white" alt="Network+" />
+<img src="https://img.shields.io/badge/security+-%23C8202F.svg?style=flat-square&logo=comptia&logoColor=white" alt="Security+" />
+</p>
+<h2>💻 Featured Repo</h2>
+<p>
 <a href="https://github.com/KianooshLk/CCNA-Labs">
-  <img src="https://img.shields.io/badge/Labs-CCNA--Labs-0891b2?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&theme=tokyonight&hide_border=true" alt="CCNA-Labs" />
 </a>
-
-<br />
-<br />
-
-<table>
-  <tr>
-    <td valign="center" width="65%">
-      Hi, I'm Kianoosh Lashkari, a final-year Computer Engineering student from Iran 🇮🇷. Dedicated to becoming a System Administrator — passionate about networking, IT infrastructure and Linux.
-    </td>
-    <td valign="center" width="35%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
-    </td>
-  </tr>
-</table>
-
-## ✏️ Recent Blog
-
-- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Why I Chose Packet Tracer & GNS3 for Learning Networking</a> - 2026-01-12
-- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Breaking and Fixing OSPF: My First Multi-Area Lab</a> - 2025-12-03
-- <a href='https://medium.com/@kianooshlashkari' target='_blank'>VLANs, ACLs & NAT: A Practical Journey</a> - 2025-10-21
-- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Setting Up My First Home Lab on VMware & VirtualBox</a> - 2025-08-09
-- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Preparing for CCNA — What Actually Worked for Me</a> - 2025-06-15
-
-<!-- blog_plugin_start -->
-
-<!-- blog_plugin_end -->
-
-<!-- github_plugin_start -->
-
-## ⛳️ Project Release
-
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v1.0.0</a> - 2026-02-01
-  <br/> Enterprise / campus network design — full VLAN · OSPF · ACL · NAT.
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.4.0</a> - 2025-12-20
-  <br/> Added multi-area OSPF failure scenarios.
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.3.0</a> - 2025-11-08
-  <br/> ACL & NAT configuration recipes.
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.2.0</a> - 2025-09-14
-  <br/> VLAN trunking & inter-VLAN routing lab.
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.1.0</a> - 2025-07-02
-  <br/> Initial lab topology & basic switching.
-
-<!-- github_plugin_end -->
-
-<!-- wakatime_plugin_start -->
-
-## 🌗 Weekly Development Breakdown
-
-```text
-Python      4 hrs 12 mins  ████████████░░░░░░░░░░░░░  48.2 %
-Bash        2 hrs 06 mins  ██████░░░░░░░░░░░░░░░░░░░  24.1 %
-Markdown    1 hr  34 mins  ████░░░░░░░░░░░░░░░░░░░░░  18.0 %
-Other       0 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   9.7 %
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&count_private=true" alt="KianooshLk" />
