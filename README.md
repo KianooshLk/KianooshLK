@@ -11,10 +11,13 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Kianoosh Lashkari and I'm a final-year Computer Engineering student focused on networking, IT infrastructure and system administration. I learn fast and teach myself by building: simulating networks, breaking them, and fixing them again. You can find me on [![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white)](https://twitter.com/Lashkrikia), on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-lashkari-374352335), or by [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kianooush.lashkari@gmail.com).
+My name is Kianoosh Lashkari and I'm a final-year Computer Engineering student focused on networking, IT infrastructure and system administration. I learn fast and teach myself by building: simulating networks, breaking them, and fixing them again.
 
-> [!IMPORTANT]
-> I'm looking for an **internship**, ideally abroad 🌍, where I can grow into a **System Administrator**.
+<p>
+<a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335"><img src="https://img.shields.io/badge/LinkedIn-2bbc8a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/Lashkrikia"><img src="https://img.shields.io/badge/X-2bbc8a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="mailto:kianooush.lashkari@gmail.com"><img src="https://img.shields.io/badge/Email-2bbc8a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ## 🔧 Technologies & Tools
 
