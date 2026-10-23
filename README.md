@@ -1,65 +1,79 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335" target="_blank">Kianoosh Lashkari</a> 👋</h1>
+# Hi there, I'm Kianoosh 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kianoosh%20Lashkari-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
+[![Medium](https://img.shields.io/badge/Medium-@kianooshlashkari-12100E?logo=medium&logoColor=white&style=for-the-badge)][medium]
+[![X Follow](https://img.shields.io/badge/X-@Lashkrikia-111111?logo=x&logoColor=white&style=for-the-badge)][twitter]
+
+[![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)](#)
+[![Network+](https://img.shields.io/badge/Network+-C8202F?logo=comptia&logoColor=white&style=for-the-badge)](#)
+[![Security+](https://img.shields.io/badge/Security+-C8202F?logo=comptia&logoColor=white&style=for-the-badge)](#)
+
+
+## I'm a Computer Engineering Student, Network Builder, and Future SysAdmin!!
+
+- 🔭 Check out my labs and campus network design: [CCNA-Labs][labs]
+- 🌱 I'm currently practicing VLAN, OSPF, ACL, NAT, DHCP, DNS, and Linux / Windows Server administration
+- 👯 I'm looking for an **internship, ideally abroad**, to grow into a System Administrator
+- 💬 Ping me about networking, system administration, Linux, and security
+- 🧪 I learn by building: simulating networks, breaking them, and fixing them again
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)][linkedin]
+&nbsp;&nbsp;
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=flat-square)][medium]
+&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/-X-111111?logo=x&logoColor=white&style=flat-square)][twitter]
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)][email]
+
+### Languages and Tools:
+
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 
 <br />
-
-<a href="https://medium.com/@kianooshlashkari" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-14c767?style=for-the-badge&logo=medium&logoColor=white" height="40" alt="Medium" />
-</a>
-<a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/Lashkrikia" target="_blank">
-  <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" height="40" alt="X" />
-</a>
-<a href="mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email" />
-</a>
-
-<br />
 <br />
 
-Hi, I'm Kianoosh, a final-year Computer Engineering student. Dedicated to becoming a System Administrator. 🌐 **Open for internships, ideally abroad.**
-
-I learn by building: simulating networks, breaking them, and fixing them again. My biggest project is an enterprise / campus network design built in Packet Tracer and GNS3.
-
-## ✏️ Recent Blog
-
-Read my articles on [Medium](https://medium.com/@kianooshlashkari).
-
-## ⛳️ Featured Project
-
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs</a>
-  <br/> Networking labs and an enterprise / campus network design (Packet Tracer, GNS3).
-
-<a href="https://github.com/KianooshLk/CCNA-Labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&theme=tokyonight&hide_border=true" alt="CCNA-Labs" />
-</a>
-
-## 🏅 Certifications
-
-<p>
-<img src="https://img.shields.io/badge/ccna-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
-<img src="https://img.shields.io/badge/network+-%23C8202F.svg?&style=for-the-badge&logo=comptia&logoColor=white" alt="Network+" />
-<img src="https://img.shields.io/badge/security+-%23C8202F.svg?&style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" />
-</p>
-
-**Languages and Tools:**
-
-<p>
-<img src="https://img.shields.io/badge/cisco-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" alt="cisco" />
-<img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-<img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" />
-<img src="https://img.shields.io/badge/debian-%23A81D33.svg?&style=for-the-badge&logo=debian&logoColor=white" alt="debian" />
-<img src="https://img.shields.io/badge/kali%20linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali linux" />
-<img src="https://img.shields.io/badge/vmware-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" alt="vmware" />
-<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?&style=for-the-badge&logo=virtualbox&logoColor=white" alt="virtualbox" />
-<img src="https://img.shields.io/badge/wireshark-%231679A7.svg?&style=for-the-badge&logo=wireshark&logoColor=white" alt="wireshark" />
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />
-</p>
+![Cisco](https://img.shields.io/badge/cisco-1BA0D7?logo=cisco&logoColor=white&style=flat-square)
+![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?logo=kalilinux&logoColor=white&style=flat-square)
+![VMware](https://img.shields.io/badge/vmware-607078?logo=vmware&logoColor=white&style=flat-square)
+![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white&style=flat-square)
+![Wireshark](https://img.shields.io/badge/wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
 
 Packet Tracer · GNS3 · VLAN · OSPF · ACL · NAT · DHCP · DNS · Windows Server
 
 ---
 
-<a href="https://github.com/KianooshLk" alt="https://github.com/KianooshLk"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=KianooshLk&color=000000"></a>
-<a href="https://github.com/KianooshLk/CCNA-Labs" alt="CCNA-Labs"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=OPEN%20FOR&message=Internships&color=000000"></a>
+### 📕 Latest Blog Posts
+
+Read my articles on [Medium][medium].
+
+➡️ [more blog posts...][medium]
+
+---
+
+<details>
+  <summary>:zap: Featured Repo</summary>
+
+  <a href="https://github.com/KianooshLk/CCNA-Labs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&theme=tokyonight&hide_border=true" alt="CCNA-Labs" />
+  </a>
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="KianooshLk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&hide_border=false&theme=tokyonight" />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/kianoosh-lashkari-374352335
+[medium]: https://medium.com/@kianooshlashkari
+[twitter]: https://twitter.com/Lashkrikia
+[email]: mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github
+[labs]: https://github.com/KianooshLk/CCNA-Labs
