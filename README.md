@@ -48,18 +48,18 @@ My biggest project so far is an **enterprise / campus network design**, built on
 
 <p align="center">
   <a href="https://github.com/KianooshLk">
-    <img src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&card_width=495" alt="Kianoosh's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true&card_width=495" width="495" alt="Kianoosh's GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KianooshLk/CCNA-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" alt="CCNA-Labs" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true" width="495" alt="CCNA-Labs" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KianooshLk&background=1d1f21&stroke=2bbc8a&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a&sideLabels=ffffff&currStreakNum=c9cacc&sideNums=c9cacc&dates=c9cacc&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=KianooshLk&background=1d1f21&stroke=2bbc8a&ring=2bbc8a&fire=2bbc8a&currStreakLabel=2bbc8a&sideLabels=ffffff&currStreakNum=c9cacc&sideNums=c9cacc&dates=c9cacc&hide_border=true" width="495" alt="GitHub streak" />
 </p>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2bbc8a,100:0f3d33&height=100&section=footer "Footer")](https://www.linkedin.com/in/kianoosh-lashkari-374352335)
