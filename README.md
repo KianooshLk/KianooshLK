@@ -23,26 +23,32 @@ All said, I like building and designing well engineered network and server infra
  class Kianoosh < Person
    def initialize
      @name = 'Kianoosh Lashkari'
-     @education = [ 'Computer Engineering (final year)' ]
-     @certifications = [ 'CCNA', 'Network+', 'Security+' ]
+     @degree = 'Computer Eng.'
+     @certs = %w[CCNA Network+
+                 Security+]
    end
 
-   def languages
-     {
-       programming: [ 'Python' ]
-     }
+   def language
+     'Python'
    end
 
    def next_chapter
      'Internship, ideally abroad'
    end
 
-   def currently
-     {
-       building: [ 'Enterprise / Campus Network Design' ],
-       practicing: [ 'VLAN', 'OSPF', 'ACL', 'NAT', 'DHCP', 'DNS' ],
-       tinkering: [ 'Ubuntu', 'Debian', 'Kali Linux', 'Windows Server', 'VirtualBox', 'Wireshark' ]
-     }
+   def building
+     'Enterprise / Campus Network'
+   end
+
+   def practicing
+     %w[VLAN OSPF ACL NAT
+        DHCP DNS]
+   end
+
+   def tinkering
+     %w[Ubuntu Debian Kali
+        WinServer VirtualBox
+        Wireshark]
    end
  end
  ```
