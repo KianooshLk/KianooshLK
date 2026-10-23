@@ -1,79 +1,82 @@
-# Hi there, I'm Kianoosh 👋
+# Hello there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kianoosh%20Lashkari-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)][linkedin]
-[![Medium](https://img.shields.io/badge/Medium-@kianooshlashkari-12100E?logo=medium&logoColor=white&style=for-the-badge)][medium]
-[![X Follow](https://img.shields.io/badge/X-@Lashkrikia-111111?logo=x&logoColor=white&style=for-the-badge)][twitter]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=KianooshLk.KianooshLk)
+![Open for Internships](https://img.shields.io/badge/Open%20for-Internships-0891b2?style=flat)
 
-[![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)](#)
-[![Network+](https://img.shields.io/badge/Network+-C8202F?logo=comptia&logoColor=white&style=for-the-badge)](#)
-[![Security+](https://img.shields.io/badge/Security+-C8202F?logo=comptia&logoColor=white&style=for-the-badge)](#)
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 
-## I'm a Computer Engineering Student, Network Builder, and Future SysAdmin!!
+class FutureSystemAdministrator:
 
-- 🔭 Check out my labs and campus network design: [CCNA-Labs][labs]
-- 🌱 I'm currently practicing VLAN, OSPF, ACL, NAT, DHCP, DNS, and Linux / Windows Server administration
-- 👯 I'm looking for an **internship, ideally abroad**, to grow into a System Administrator
-- 💬 Ping me about networking, system administration, Linux, and security
-- 🧪 I learn by building: simulating networks, breaking them, and fixing them again
+    def __init__(self):
+        self.name = "Kianoosh Lashkari"
+        self.role = "Computer Engineering Student (final year)"
+        self.interests = ["Networking", "IT Infrastructure", "System Administration"]
+        self.certifications = ["CCNA", "Network+", "Security+"]
+        self.looking_for = "Internship, ideally abroad"
 
-### Connect with me:
+    def say_hi(self):
+        print("Thanks for dropping by, I learn by building, breaking, and fixing networks.")
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)][linkedin]
-&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=flat-square)][medium]
-&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/-X-111111?logo=x&logoColor=white&style=flat-square)][twitter]
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)][email]
 
-### Languages and Tools:
+me = FutureSystemAdministrator()
+me.say_hi()
+```
 
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Debian" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+## 📝 Blogs
 
-<br />
-<br />
+- Articles on Medium: https://medium.com/@kianooshlashkari
+- Networking labs and notes: https://github.com/KianooshLk/CCNA-Labs
 
-![Cisco](https://img.shields.io/badge/cisco-1BA0D7?logo=cisco&logoColor=white&style=flat-square)
-![Kali Linux](https://img.shields.io/badge/kali%20linux-557C94?logo=kalilinux&logoColor=white&style=flat-square)
-![VMware](https://img.shields.io/badge/vmware-607078?logo=vmware&logoColor=white&style=flat-square)
-![VirtualBox](https://img.shields.io/badge/virtualbox-183A61?logo=virtualbox&logoColor=white&style=flat-square)
-![Wireshark](https://img.shields.io/badge/wireshark-1679A7?logo=wireshark&logoColor=white&style=flat-square)
+## 🔧 Technologies & Tools
 
-Packet Tracer · GNS3 · VLAN · OSPF · ACL · NAT · DHCP · DNS · Windows Server
+**Networking:**
 
----
+![Cisco](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Packet Tracer](https://img.shields.io/badge/Simulation-Packet_Tracer-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![GNS3](https://img.shields.io/badge/Simulation-GNS3-informational?style=flat&color=6aa6f8)
+![VLAN](https://img.shields.io/badge/Switching-VLAN-informational?style=flat&color=6aa6f8)
+![OSPF](https://img.shields.io/badge/Routing-OSPF-informational?style=flat&color=6aa6f8)
+![ACL](https://img.shields.io/badge/Security-ACL-informational?style=flat&color=6aa6f8)
+![NAT](https://img.shields.io/badge/Services-NAT-informational?style=flat&color=6aa6f8)
+![DHCP](https://img.shields.io/badge/Services-DHCP-informational?style=flat&color=6aa6f8)
+![DNS](https://img.shields.io/badge/Services-DNS-informational?style=flat&color=6aa6f8)
+![Wireshark](https://img.shields.io/badge/Analysis-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
 
-### 📕 Latest Blog Posts
+**Operating Systems & Virtualization:**
 
-Read my articles on [Medium][medium].
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=6aa6f8)
+![Debian](https://img.shields.io/badge/OS-Debian-informational?style=flat&logo=debian&logoColor=white&color=6aa6f8)
+![Kali Linux](https://img.shields.io/badge/OS-Kali_Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
+![Windows Server](https://img.shields.io/badge/OS-Windows_Server-informational?style=flat&color=6aa6f8)
+![VirtualBox](https://img.shields.io/badge/Virtualization-VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=6aa6f8)
+![VMware](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=6aa6f8)
 
-➡️ [more blog posts...][medium]
+**Programming Languages:**
 
----
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
-<details>
-  <summary>:zap: Featured Repo</summary>
+## 🏅 Certifications
 
-  <a href="https://github.com/KianooshLk/CCNA-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&theme=tokyonight&hide_border=true" alt="CCNA-Labs" />
-  </a>
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Network+](https://img.shields.io/badge/CompTIA-Network+-informational?style=flat&logo=comptia&logoColor=white&color=6aa6f8)
+![Security+](https://img.shields.io/badge/CompTIA-Security+-informational?style=flat&logo=comptia&logoColor=white&color=6aa6f8)
 
-</details>
+## 🏆 GitHub Trophies
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KianooshLk&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <img align="left" alt="KianooshLk's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&hide_border=false&theme=tokyonight" />
+## 🗂️ Highlight Projects
 
-</details>
+<a href="https://github.com/KianooshLk/CCNA-Labs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="CCNA-Labs" />
+</a>
 
-[linkedin]: https://www.linkedin.com/in/kianoosh-lashkari-374352335
-[medium]: https://medium.com/@kianooshlashkari
-[twitter]: https://twitter.com/Lashkrikia
-[email]: mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github
-[labs]: https://github.com/KianooshLk/CCNA-Labs
+## 📫 Reach me on
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/kianoosh-lashkari-374352335)
+[![X](https://img.shields.io/badge/-X-111111?logo=x&logoColor=white&style=flat)](https://twitter.com/Lashkrikia)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?logo=medium&logoColor=white&style=flat)](https://medium.com/@kianooshlashkari)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github)
