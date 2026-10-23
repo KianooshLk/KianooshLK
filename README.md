@@ -16,9 +16,16 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <br />
 <br />
 
-Hi, I'm Kianoosh Lashkari, a final-year Computer Engineering student from Iran 🇮🇷. Dedicated to becoming a System Administrator — passionate about networking, IT infrastructure and Linux.
-
-<a href="#"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" /></a>
+<table>
+  <tr>
+    <td valign="center" width="65%">
+      Hi, I'm Kianoosh Lashkari, a final-year Computer Engineering student from Iran 🇮🇷. Dedicated to becoming a System Administrator — passionate about networking, IT infrastructure and Linux.
+    </td>
+    <td valign="center" width="35%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+    </td>
+  </tr>
+</table>
 
 ## ✏️ Recent Blog
 
@@ -54,7 +61,7 @@ Hi, I'm Kianoosh Lashkari, a final-year Computer Engineering student from Iran �
 ## 🌗 Weekly Development Breakdown
 
 ```text
-CCNA            4 hrs 12 mins  ████████████░░░░░░░░░░░░░  48.2 %
-Mikrotik        2 hrs 06 mins  ██████░░░░░░░░░░░░░░░░░░░  24.1 %
-Markdown        1 hr  34 mins  ████░░░░░░░░░░░░░░░░░░░░░  18.0 %
-Other           0 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   9.7 %
+Python      4 hrs 12 mins  ████████████░░░░░░░░░░░░░  48.2 %
+Bash        2 hrs 06 mins  ██████░░░░░░░░░░░░░░░░░░░  24.1 %
+Markdown    1 hr  34 mins  ████░░░░░░░░░░░░░░░░░░░░░  18.0 %
+Other       0 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   9.7 %
