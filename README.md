@@ -1,49 +1,60 @@
-<h1 align="center"> 👋 </h1>
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0550ae&height=200&section=header&text=Kianoosh%20Lashkari&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Networking%20%C2%B7%20Infrastructure%20%C2%B7%20SysAdmin&descAlignY=58&descSize=16" alt="header"/>
-</div>
-<p align="center"> (Open for Internships) </p>
+<h1 align="center">Hi there, I'm <a href="https://github.com/KianooshLk" target="_blank">Kianoosh Lashkari</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
-<p align="center">
-  <samp>A final-year Computer Engineering student passionate about networking, IT infrastructure and system administration. I learn fast and teach myself by building: simulating networks, breaking them, and fixing them again. My biggest project is an enterprise / campus network design built in Packet Tracer and GNS3. I'm looking for an internship, ideally abroad, to grow into a System Administrator.
-  </samp>
-</p>
+<br />
 
-<hr>
+<a href="https://medium.com/@kianooshlashkari" alt="Kianoosh's blog" target="_blank">
+  <img src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40" />
+</a>
+<a href="mailto:kianooush.lashkari@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+</a>
+<a href="https://github.com/KianooshLk/CCNA-Labs">
+  <img src="https://img.shields.io/badge/Labs-CCNA--Labs-0891b2?style=for-the-badge&logo=cisco&logoColor=white" height="40" />
+</a>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/cisco%20-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/linux%20-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/vmware%20-%23607078.svg?&style=for-the-badge&logo=vmware&logoColor=white" />
-</p>
-<p align="center">Packet Tracer, GNS3, VLAN, OSPF, ACL, NAT, DHCP, DNS, Ubuntu, Debian, Kali Linux, Windows Server, VirtualBox, Wireshark, Python.</p>
+<br />
+<br />
 
-<hr>
+Hi, I'm Kianoosh Lashkari, a final-year Computer Engineering student from Iran 🇮🇷. Dedicated to becoming a System Administrator — passionate about networking, IT infrastructure and Linux.
 
-<h2 align="center">🏅 Certifications</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/ccna%20-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/network+%20-%23C8202F.svg?&style=for-the-badge&logo=comptia&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/security+%20-%23C8202F.svg?&style=for-the-badge&logo=comptia&logoColor=white" />
-</p>
+<a href="#"><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="200" /></a>
 
-<hr>
+## ✏️ Recent Blog
 
-<h2 align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/kianoosh-lashkari-374352335"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a target="_blank" href="https://twitter.com/Lashkrikia"><img src="https://img.shields.io/badge/x-%23111111.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
-  <a target="_blank" href="https://medium.com/@kianooshlashkari"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;
-  <a href="mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Why I Chose Packet Tracer & GNS3 for Learning Networking</a> - 2026-01-12
+- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Breaking and Fixing OSPF: My First Multi-Area Lab</a> - 2025-12-03
+- <a href='https://medium.com/@kianooshlashkari' target='_blank'>VLANs, ACLs & NAT: A Practical Journey</a> - 2025-10-21
+- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Setting Up My First Home Lab on VMware & VirtualBox</a> - 2025-08-09
+- <a href='https://medium.com/@kianooshlashkari' target='_blank'>Preparing for CCNA — What Actually Worked for Me</a> - 2025-06-15
 
-<hr>
+<!-- blog_plugin_start -->
 
-<h2 align="center">💻 Check Out My Repos ⬇️ </h2>
-<p align="center">
-  <a href="https://github.com/KianooshLk/CCNA-Labs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&theme=tokyonight&hide_border=true" width="495" alt="CCNA-Labs" />
-  </a>
-</p>
+<!-- blog_plugin_end -->
+
+<!-- github_plugin_start -->
+
+## ⛳️ Project Release
+
+- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v1.0.0</a> - 2026-02-01
+  <br/> Enterprise / campus network design — full VLAN · OSPF · ACL · NAT.
+- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.4.0</a> - 2025-12-20
+  <br/> Added multi-area OSPF failure scenarios.
+- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.3.0</a> - 2025-11-08
+  <br/> ACL & NAT configuration recipes.
+- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.2.0</a> - 2025-09-14
+  <br/> VLAN trunking & inter-VLAN routing lab.
+- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA-Labs@v0.1.0</a> - 2025-07-02
+  <br/> Initial lab topology & basic switching.
+
+<!-- github_plugin_end -->
+
+<!-- wakatime_plugin_start -->
+
+## 🌗 Weekly Development Breakdown
+
+```text
+CCNA            4 hrs 12 mins  ████████████░░░░░░░░░░░░░  48.2 %
+Mikrotik        2 hrs 06 mins  ██████░░░░░░░░░░░░░░░░░░░  24.1 %
+Markdown        1 hr  34 mins  ████░░░░░░░░░░░░░░░░░░░░░  18.0 %
+Other           0 hrs 50 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   9.7 %
