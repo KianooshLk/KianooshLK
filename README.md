@@ -12,6 +12,7 @@ I am Kianoosh Lashkari, a final-year Computer Engineering student and a network 
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-00AEEF?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/-GNS3-5B8DB8?style=flat-square&logo=gns3&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![MikroTik](https://img.shields.io/badge/-MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
