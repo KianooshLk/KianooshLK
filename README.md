@@ -1,80 +1,56 @@
-<h1 align="left" id="kianoosh-title">:wave: Hello there! I'm Kianoosh Lashkari</h1>
-<h3 align="left">I do Networking/Infrastructure/SysAdmin things</h3>
+<div align="right">
 
-<p align="left">
-  <a href="https://github.com/KianooshLk/KianooshLk"><img src="https://komarev.com/ghpvc/?username=KianooshLk" alt="page views" /></a>
-  <a href="https://github.com/KianooshLk?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/KianooshLk?style=flat&logo=github"></a>
-  <a href="https://medium.com/@kianooshlashkari"><img alt="Medium" src="https://img.shields.io/badge/Medium-@kianooshlashkari-12100E?style=flat&logo=medium&logoColor=white"></a>
-  <a href="https://twitter.com/Lashkrikia"><img alt="X" src="https://img.shields.io/badge/X-@Lashkrikia-111111?style=flat&logo=x&logoColor=white"></a>
-  <img alt="Open for Internships" src="https://img.shields.io/badge/Open%20for-Internships-0891b2?style=flat">
+  [![Linkedin Badge](https://img.shields.io/badge/-kianoosh--lashkari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kianoosh-lashkari-374352335)](https://www.linkedin.com/in/kianoosh-lashkari-374352335)
+  [![Medium Badge](https://img.shields.io/badge/-@kianooshlashkari-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@kianooshlashkari)](https://medium.com/@kianooshlashkari)
+  [![X Badge](https://img.shields.io/badge/-@Lashkrikia-111111?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/Lashkrikia)](https://twitter.com/Lashkrikia)
+  [![Gmail Badge](https://img.shields.io/badge/-kianooush.lashkari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kianooush.lashkari@gmail.com)](mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github)
+</div>
+
+<hr>
+
+<p>
+My name is Kianoosh Lashkari, and I love to build stuff, mostly networks. I'm in the final year of my Computer Engineering degree, and I learn by building: simulating networks, breaking them, and fixing them again. My biggest project is an enterprise / campus network design built in Packet Tracer and GNS3, and I hold CCNA, Network+ and Security+ certifications. Right now I'm looking for an internship, ideally abroad, to grow into a System Administrator.
+</p>
+<p>
+All said, I like building and designing well engineered network and server infrastructure, and finding out exactly how it breaks.
 </p>
 
-<a href="#kianoosh-title"><img src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&theme=tokyonight&hide_border=true" alt="KianooshLk" align="right" /></a>
+<hr>
 
-- :mortar_board: &nbsp;I'm a final-year **Computer Engineering** student
-- :seedling: &nbsp;I'm currently working on an enterprise / campus network design, see **[CCNA-Labs]**
-- :briefcase: &nbsp;I'm looking for an **internship**, ideally abroad, to grow into a System Administrator
-- :speech_balloon: &nbsp;I like to talk about **networking**, **Linux** and **system administration**
-- :book: &nbsp;Read my articles on **[Medium]**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+### 📘 How I'd Define Me... Literally
 
-<br>
+ ```ruby
+ class Kianoosh < Person
+   def initialize
+     @name = 'Kianoosh Lashkari'
+     @education = [ 'Computer Engineering (final year)' ]
+     @certifications = [ 'CCNA', 'Network+', 'Security+' ]
+   end
 
-<h2 align="left" id="kianoosh-tech">Favorite Tech</h2>
+   def languages
+     {
+       programming: [ 'Python' ]
+     }
+   end
 
-> Tools, protocols, and other things that I like to work with.
+   def next_chapter
+     'Internship, ideally abroad'
+   end
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco" /></a>
-      <br>Cisco
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /></a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu" /></a>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="48" height="48" alt="Debian" /></a>
-      <br>Debian
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows Server" /></a>
-      <br>Win Server
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.simpleicons.org/vmware/607078" width="48" height="48" alt="VMware" /></a>
-      <br>VMware
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark" /></a>
-      <br>Wireshark
-    </td>
-    <td align="center" width="96">
-      <a href="#kianoosh-tech"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /></a>
-      <br>Python
-    </td>
-  </tr>
-</table>
+   def currently
+     {
+       building: [ 'Enterprise / Campus Network Design' ],
+       practicing: [ 'VLAN', 'OSPF', 'ACL', 'NAT', 'DHCP', 'DNS' ],
+       tinkering: [ 'Ubuntu', 'Debian', 'Kali Linux', 'Windows Server', 'VirtualBox', 'Wireshark' ]
+     }
+   end
+ end
+ ```
 
-Packet Tracer · GNS3 · VLAN · OSPF · ACL · NAT · DHCP · DNS · VirtualBox · Kali Linux
+<hr>
 
-<h2 align="left">Certifications</h2>
+### 🤠 My Cozy Corner of the Internet
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ccna-%231BA0D7.svg?&style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />&nbsp;
-  <img src="https://img.shields.io/badge/network+-%23C8202F.svg?&style=for-the-badge&logo=comptia&logoColor=white" alt="Network+" />&nbsp;
-  <img src="https://img.shields.io/badge/security+-%23C8202F.svg?&style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" />
-</p>
-
-<!-- links -->
-
-[CCNA-Labs]: https://github.com/KianooshLk/CCNA-Labs "KianooshLk/CCNA-Labs"
-[Medium]: https://medium.com/@kianooshlashkari "My Medium"
-[issues page]: https://github.com/KianooshLk/KianooshLk/issues "KianooshLk/issues"
-[LinkedIn]: https://www.linkedin.com/in/kianoosh-lashkari-374352335 "Kianoosh Lashkari LinkedIn"
+-  <a href="https://github.com/KianooshLk/CCNA-Labs">CCNA-Labs</a>, my networking labs and campus network design 🌐
+-  <a href="https://medium.com/@kianooshlashkari">My articles on Medium</a> 📝
+-  <a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335">Let's connect on LinkedIn</a> 🤝
