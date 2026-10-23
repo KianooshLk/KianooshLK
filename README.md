@@ -10,7 +10,7 @@
 </p>
 
 - :mortar_board: &nbsp;I'm in my final year of **Computer Engineering**
-- :seedling: &nbsp;I’m currently working on my **[virtual labs]**
+- :seedling: &nbsp;I’m currently working on my **[CCNA Labs]**
 - :speech_balloon: &nbsp;I like to talk about **Cisco networking**, **Linux** and **Windows Server**
 - :trophy: &nbsp;I'm certified in **CCNA**, **Network+** and **Security+**
 - :briefcase: &nbsp;I'm looking for an **internship**, ideally abroad, to grow into a **SysAdmin**
@@ -74,5 +74,5 @@
 
 <!-- links -->
 
-[virtual labs]: https://github.com/KianooshLk/CCNA-Labs "KianooshLk/CCNA-Labs"
+[CCNA Labs]: https://github.com/KianooshLk/CCNA-Labs "KianooshLk/CCNA-Labs"
 [linkedin]: https://www.linkedin.com/in/kianoosh-lashkari-374352335 "Kianoosh Lashkari LinkedIn"
