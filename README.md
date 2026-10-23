@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=380&height=30&lines=Aspiring+System+Administrator;Computer+Engineering+Student;CCNA+%7C+Network%2B+%7C+Security%2B;Open+to+Internships+Abroad" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open_to_Internships-22C55E?style=flat-square&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Open_to_Relocation_Abroad-38BDF8?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_to-Internships_Abroad-22C55E?style=flat-square&logo=target&logoColor=white" alt="Open to internships abroad" />
 </p>
 
 <p align="center">
@@ -16,6 +11,14 @@
 <a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335"><img src="https://img.shields.io/badge/Network+-2025-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="Network+" /></a>
 <a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335"><img src="https://img.shields.io/badge/Security+-2025-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="Security+" /></a>
 </p>
+
+<p align="center">
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,python,bash,powershell,vscode,git,github&theme=dark&perline=11" height="52" alt="My Skills" /></a>
+</p>
+
+<details align="center">
+<summary><b>🛠️ Tools &amp; Labs</b></summary>
+<br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Cisco-1f2937?style=flat-square&logo=cisco&logoColor=1BA0D7" alt="Cisco" />
@@ -26,9 +29,7 @@
 <img src="https://img.shields.io/badge/VirtualBox-1f2937?style=flat-square&logo=virtualbox&logoColor=60A5FA" alt="VirtualBox" />
 </p>
 
-<p align="center">
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,windows,python,bash,powershell,vscode,git,github&theme=dark&perline=11" height="52" alt="My Skills" /></a>
-</p>
+</details>
 
 <h2 align="center">It's me, @KianooshLk!</h2>
 <p align="center"><em>Aspiring System Administrator<br>
@@ -59,6 +60,10 @@ Open to internships, ideally abroad
   <img src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&theme=tokyonight&hide_border=true&card_width=495" width="495" alt="GitHub stats" />
 </p>
 
+<details align="center">
+<summary><b>More stats</b></summary>
+<br>
+
 <p align="center">
   <a href="https://github.com/KianooshLk/CCNA-Labs">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KianooshLk&repo=CCNA-Labs&theme=tokyonight&hide_border=true" width="495" alt="CCNA-Labs" />
@@ -68,6 +73,8 @@ Open to internships, ideally abroad
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KianooshLk&theme=tokyonight&hide_border=true" width="495" alt="GitHub streak" />
 </p>
+
+</details>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
