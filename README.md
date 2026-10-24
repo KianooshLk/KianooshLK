@@ -1,33 +1,64 @@
-### Hi, I'm Kianoosh! &nbsp;&nbsp;<sup>👾 &#12299;I build and troubleshoot networks. Final-year Computer Engineering student. CCNA, Network+ and Security+ certified.</sup>
+<div align="right">
 
-----
+  [![Linkedin Badge](https://img.shields.io/badge/-kianoosh--lashkari-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-lashkari-374352335)
+  [![X Badge](https://img.shields.io/badge/-@Lashkrikia-111111?style=flat-square&logo=X&logoColor=white)](https://twitter.com/Lashkrikia)
+  [![Medium Badge](https://img.shields.io/badge/-@kianooshlashkari-03a57a?style=flat-square&label&logo=Medium)](https://medium.com/@kianooshlashkari)
+  [![Gmail Badge](https://img.shields.io/badge/-email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:kianooush.lashkari@gmail.com)
+</div>
 
-![networking](https://img.shields.io/static/v1?label=&message=networking:&color=111&style=flat-square)
-![cisco](https://img.shields.io/static/v1?logo=cisco&label=&message=cisco&color=36465D&logoColor=AAA&style=flat-square)
-![packet tracer](https://img.shields.io/static/v1?logo=cisco&label=&message=packet%20tracer&color=36465D&logoColor=AAA&style=flat-square)
-![gns3](https://img.shields.io/static/v1?label=&message=gns3&color=36465D&style=flat-square)
-![wireshark](https://img.shields.io/static/v1?logo=wireshark&label=&message=wireshark&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![systems](https://img.shields.io/static/v1?label=&message=systems:&color=111&style=flat-square)
-![linux](https://img.shields.io/static/v1?logo=linux&label=&message=linux&color=36465D&logoColor=AAA&style=flat-square)
-![ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=ubuntu&color=36465D&logoColor=AAA&style=flat-square)
-![kali](https://img.shields.io/static/v1?logo=kalilinux&label=&message=kali&color=36465D&logoColor=AAA&style=flat-square)
-![vmware](https://img.shields.io/static/v1?logo=vmware&label=&message=vmware&color=36465D&logoColor=AAA&style=flat-square)
-![virtualbox](https://img.shields.io/static/v1?logo=virtualbox&label=&message=virtualbox&color=36465D&logoColor=AAA&style=flat-square)
-&nbsp;&nbsp;&nbsp;
-![code](https://img.shields.io/static/v1?label=&message=code:&color=111&style=flat-square)
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square)
+<hr>
 
-**Aspiring System Administrator** &#12299;_networking, Linux and Windows Server administration_
-<br/>
-**Computer Engineering Student** &#12299;_final year, looking for an internship, ideally abroad_
+<p>
+My name is Kianoosh Lashkari, and I love to understand how things connect, usually by building them. I'm a final-year Computer Engineering student, passionate about networking, IT infrastructure and system administration. I learn fast and teach myself by building: simulating networks, breaking them, and fixing them again. My biggest project so far is an enterprise / campus network design, built on my own in Packet Tracer and GNS3. I hold the CCNA, CompTIA Network+ and CompTIA Security+ certifications.
+</p>
+<p>
+All said, I like designing well-structured networks, troubleshooting them in virtual labs, and getting better at Linux and Windows Server administration, with the goal of becoming a System Administrator.
+</p>
 
-----
+<hr>
 
-[![linkedin](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=36465D&logoColor=AAA&style=flat-square)](https://www.linkedin.com/in/kianoosh-lashkari-374352335)
-[![x](https://img.shields.io/static/v1?logo=x&label=&message=x&color=36465D&logoColor=AAA&style=flat-square)](https://twitter.com/Lashkrikia)
-[![medium](https://img.shields.io/static/v1?logo=medium&label=&message=medium&color=36465D&logoColor=AAA&style=flat-square)](https://medium.com/@kianooshlashkari)
-[![email](https://img.shields.io/static/v1?logo=gmail&label=&message=email&color=36465D&logoColor=AAA&style=flat-square)](mailto:kianooush.lashkari@gmail.com)
+### 📘 How I'd Define Me... Literally
 
-| &nbsp;&nbsp;&nbsp; Certifications : CCNA (2026) · Network+ (2025) · Security+ (2025) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Hands-on Labs : [CCNA-Labs](https://github.com/KianooshLk/CCNA-Labs) <sub>&#9660; &#9660; &#9660;</sub>
-|--|--|
+ ```ruby
+ class Kianoosh < Person
+   def initialize
+     @name = 'Kianoosh Lashkari'
+     @education = [ 'B.Sc. Computer Engineering (final year)' ]
+     @certifications = [ 'CCNA (2026)', 'CompTIA Network+ (2025)', 'CompTIA Security+ (2025)' ]
+     @goal = 'System Administrator'
+   end
+
+   def skills
+     {
+       networking: [ 'Cisco R&S', 'VLAN', 'OSPF', 'ACL', 'NAT', 'DHCP', 'DNS' ],
+       systems: [ 'Ubuntu', 'Debian', 'Kali Linux', 'Windows Server' ],
+       labs: [ 'Packet Tracer', 'GNS3', 'VMware', 'VirtualBox', 'Wireshark' ],
+       programming: [ 'Python' ]
+     }
+   end
+
+   def currently
+     {
+       building: [ 'Enterprise / campus network designs' ],
+       deepening: [ 'Linux', 'Windows Server' ],
+       seeking: [ 'An internship, ideally abroad' ]
+     }
+   end
+ end
+ ```
+
+<hr>
+
+### 👾 Tools I Can't Work Without
+-  <a href="https://www.gns3.com/">GNS3</a>, my network emulator 🌐
+-  <a href="https://www.wireshark.org/">Wireshark</a>, for seeing what's really on the wire 🦈
+-  <a href="https://www.netacad.com/">Cisco Networking Academy</a>, home of Packet Tracer 🧭
+-  <a href="https://github.com/KianooshLk/CCNA-Labs">My CCNA Labs</a>, where my practice lives 🧪
+
+<hr>
+
+### 🎯 What I'm Looking For
+
+-  An internship in networking or system administration, ideally abroad 🌍
+-  A team where I can learn from experienced engineers 🤝
+-  A path toward a System Administrator role 🖥️
