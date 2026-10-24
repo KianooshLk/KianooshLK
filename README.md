@@ -1,55 +1,101 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335" target="_blank">Kianoosh Lashkari</a> <img
-src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32" /></h1>
+<div align="center">
 
-<br />
-
-<a href="https://www.linkedin.com/in/kianoosh-lashkari-374352335">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
-</a>
-<a href="https://twitter.com/Lashkrikia">
-  <img src="https://img.shields.io/badge/X-Follow-1f2937?style=for-the-badge&logo=x&logoColor=white" height="32" />
-</a>
-<a href="https://medium.com/@kianooshlashkari">
-  <img src="https://img.shields.io/badge/Medium-Read-1f2937?style=for-the-badge&logo=medium&logoColor=white" height="32" />
-</a>
-<a href="mailto:kianooush.lashkari@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm Kianoosh Lashkari, a final-year Computer Engineering student 🎓. Dedicated to becoming a System Administrator.
-
-## 🏅 Certifications
-
-- CCNA - 2026
-- CompTIA Network+ - 2025
-- CompTIA Security+ - 2025
-
-## ⛳️ Projects
-
-- <a href='https://github.com/KianooshLk/CCNA-Labs' target='_blank'>CCNA Labs</a>
-  <br/> Hands-on labs: VLANs, inter-VLAN routing, OSPF, static routing, ACL, NAT, DHCP and DNS.
-- Enterprise / Campus Network Design - university project
-  <br/> Built on my own in Packet Tracer and GNS3: topology, IP addressing, documentation.
-
-**Languages and Tools:**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1BA0D7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kianoosh+Lashkari+%F0%9F%91%8B;Computer+Engineering+Student;Aspiring+System+Administrator;CCNA+%7C+Network%2B+%7C+Security%2B" alt="Typing SVG" />
 
 <p>
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" style="vertical-align:down; margin:4px" alt="Cisco" title="Cisco">
-<img src="https://cdn.simpleicons.org/linux/FCC624" height="40" style="vertical-align:down; margin:4px" alt="Linux" title="Linux">
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" style="vertical-align:down; margin:4px" alt="Ubuntu" title="Ubuntu">
-<img src="https://cdn.simpleicons.org/debian/A81D33" height="40" style="vertical-align:down; margin:4px" alt="Debian" title="Debian">
-<img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" style="vertical-align:down; margin:4px" alt="Kali Linux" title="Kali Linux">
-<img src="https://img.icons8.com/color/48/000000/windows-10.png" height="40" style="vertical-align:down; margin:4px" alt="Windows Server" title="Windows Server">
-<img src="https://cdn.simpleicons.org/vmware/607078" height="40" style="vertical-align:down; margin:4px" alt="VMware" title="VMware">
-<img src="https://cdn.simpleicons.org/virtualbox/5B8DB8" height="40" style="vertical-align:down; margin:4px" alt="VirtualBox" title="VirtualBox">
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" style="vertical-align:down; margin:4px" alt="Wireshark" title="Wireshark">
-<img src="https://cdn.simpleicons.org/python/3776AB" height="40" style="vertical-align:down; margin:4px" alt="Python" title="Python">
+  <img src="https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=for-the-badge" />
 </p>
+
+</div>
 
 ---
 
-<a href="https://github.com/KianooshLk" alt="https://github.com/KianooshLk"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=STATUS&message=OPEN%20TO%20INTERNSHIPS&color=000000"></a>
-<a href="https://github.com/KianooshLk/CCNA-Labs" alt="https://github.com/KianooshLk/CCNA-Labs"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=GOAL&message=SYSADMIN&color=000000"></a>
+## 👨‍💻 About Me
+
+I'm a final-year **Computer Engineering** student and a network enthusiast. I learn fast and mostly by doing: building networks, breaking them, and fixing them again.
+
+- 🎓 Graduating in less than 6 months
+- 🌐 Designed an enterprise/campus network as my university project
+- 🎯 Goal: grow into a **System Administrator**
+- 🌍 Looking for **internship opportunities**, including abroad
+- 🤝 Always open to collaborating and learning new things
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer | Year |
+|:--|:--|:--:|
+| ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Cisco | 2026 |
+| ![Security+](https://img.shields.io/badge/Security+-C8202F?style=flat-square&logo=comptia&logoColor=white) | CompTIA | 2025 |
+| ![Network+](https://img.shields.io/badge/Network+-C8202F?style=flat-square&logo=comptia&logoColor=white) | CompTIA | 2025 |
+
+---
+
+## ⚡ Tech & Skills
+
+**🌐 Networking**  
+VLANs & Inter-VLAN Routing · OSPF · Static Routing · ACL · NAT · DHCP · DNS
+
+**🖥️ Systems**  
+Ubuntu/Debian · Kali Linux · Windows Server (DHCP/DNS) · User & Permission Management
+
+**🛠️ Tools**
+
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-00AEEF?style=flat-square&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/-GNS3-5B8DB8?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | What I did | Tools |
+|:--|:--|:--|
+| 🏢 **Enterprise/Campus Network Design**<br>*(university project)* | Topology design, IP addressing, VLANs, inter-VLAN routing, OSPF/static routing, ACL, NAT, DHCP/DNS, full documentation | `Packet Tracer` `GNS3` |
+| 🔬 **Networking Labs** | Routing, switching and security labs | `Packet Tracer` `GNS3` |
+| 🪟 **Windows Server Lab** | DHCP and DNS server setup in a virtual environment | `VMware` `VirtualBox` |
+
+> 🔗 Repos and write-ups coming soon.
+
+---
+
+## ✍️ Writing
+
+I write about Linux and servers on **[Medium](https://medium.com/@kianooshlashkari)**.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KianooshLk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KianooshLk&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kianoosh-lashkari-374352335)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kianooush.lashkari@gmail.com?subject=Hello%20Kianoosh,%20From%20Github)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kianooshlashkari)
+[![X](https://img.shields.io/badge/@Lashkrikia-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Lashkrikia)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=KianooshLk.KianooshLk)
+
+</div>
